@@ -1,0 +1,22 @@
+{
+ "beaconName": "beacons/1!7e9ba3c4ba7c441ead0a33cff06395d2006400c8",
+ "advertisedId": {
+  "type": "IBEACON",
+  "id": "fpujxLp8RB6tCjPP8GOV0gBkAMg="
+ },
+ "status": "ACTIVE",
+ "placeId": "ChIJVVUx3c2-wjsRfiZkpuXbOPQ",
+ "latLng": {
+  "latitude": 18.5643478,
+  "longitude": 73.781288
+ },
+ "indoorLevel": {
+  "name": "2"
+ },
+ "expectedStability": "STABLE",
+ "description": "Duracell Beacon immutable id : beacons/1!7e9ba3c4ba7c441ead0a33cff06395d2006400c8",
+ "properties": {
+  "Name": "Fidel IT Services",
+  "Place": "Baner, Pune"
+ }
+}
